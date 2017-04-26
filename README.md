@@ -1,6 +1,6 @@
 # Item Catalog
 
-    * Udacity Full Stack project 5
+    Udacity Full Stack project 5
 
 # How to run the application
 -----------------------

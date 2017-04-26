@@ -2,7 +2,7 @@
 
     Udacity Full Stack project 5
 
-# How to run the application
+## How to run the application
 -----------------------
 
 

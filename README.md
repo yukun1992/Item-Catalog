@@ -8,14 +8,14 @@
 
 1. Run database_setup.py in order to set database:
 
-`python database_setup.py`
+    `python database_setup.py`
 
 2. Run load_data.py to load some data
 
-`python load_data.py`
+    `python load_data.py`
 
 3. Run app
 
-`python project.py`
+    `python project.py`
 
 
